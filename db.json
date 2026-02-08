@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Sunil Kumar",
+    "no": "+91-98765-43210",
+    "email": "sunil.kumar@academicheights.edu",
+    "role": "Project Lead",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Anjali Sharma",
+    "no": "+91-99887-76655",
+    "email": "a.sharma@shraddhacreative.com",
+    "role": "Lead Designer",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Rajesh Gupta",
+    "no": "+91-88776-55443",
+    "email": "rajesh.g@schoolmail.com",
+    "role": "Administrator",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "name": "Priya Verma",
+    "no": "+91-77665-44332",
+    "email": "p.verma@techsolutions.in",
+    "role": "Developer",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "no": "+91-66554-33221",
+    "email": "v.singh@academicheights.edu",
+    "role": "Principal",
+    "status": "Active"
+  }
+]
